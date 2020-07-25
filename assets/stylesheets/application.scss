@@ -1,7 +1,13 @@
 body {
   font-family: Helvetica;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
 }
 .app {
   margin-top: 20px;
   margin-bottom: 20px;
+
+
 }

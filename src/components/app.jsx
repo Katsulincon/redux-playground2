@@ -1,9 +1,11 @@
 import React from 'react';
 
+import Counter from './counter';
+
 const App = () => {
   return (
     <div className="app">
-      <p>React + Redux starter</p>
+      <Counter />
     </div>
   );
 };
